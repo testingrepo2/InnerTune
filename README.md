@@ -18,7 +18,7 @@ A Material 3 YouTube Music client for Android
 
 - Play songs from YT/YT Music without ads
 - Background playback
-- Search songs, videos, albums, and playlists from YouTube Music
+- Search songs, videos, albums, and playlists from YouTube Music 
 - Login support
 - Library management
 - Cache and download songs for offline playback
